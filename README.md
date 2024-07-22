@@ -4,6 +4,6 @@ class
 objek
 encapsulation==>get,set
 inheritance==>extends
-polymorphiim==>@override
+polymorphism==>@override
 abstraction==>abstract class
 interface==>implements
