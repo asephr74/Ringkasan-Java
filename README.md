@@ -2,8 +2,8 @@
 Rangkuman (OOP)
 - class
 - objek
-encapsulation==>get,set
-inheritance==>extends
-polymorphism==>@override
-abstraction==>abstract class
-interface==>implements
+- encapsulation==>get,set
+- inheritance==>extends
+- polymorphism==>@override
+- abstraction==>abstract class
+- interface==>implements
