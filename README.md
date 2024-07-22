@@ -1,7 +1,7 @@
 # Ringkasan-Java
 Rangkuman (OOP)
-class
-objek
+- class
+- objek
 encapsulation==>get,set
 inheritance==>extends
 polymorphism==>@override
