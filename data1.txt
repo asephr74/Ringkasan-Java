@@ -4,7 +4,6 @@
 
 - public static void: Metode ini tidak mengembalikan nilai.
 
-# Ringkasan-Java
 Rangkuman (OOP)
 - class
 - objek
