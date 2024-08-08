@@ -3,3 +3,13 @@
    }// mengembalikan nilai integer
 
 - public static void: Metode ini tidak mengembalikan nilai.
+
+# Ringkasan-Java
+Rangkuman (OOP)
+- class
+- objek
+- encapsulation==>get,set
+- inheritance==>extends
+- polymorphism==>@override
+- abstraction==>abstract class
+- interface==>implements
