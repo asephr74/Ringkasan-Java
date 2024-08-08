@@ -1,9 +1,5 @@
 - public static int sum(int first, int second) {
-  
-  
           return first + second;
    }// mengembalikan nilai integer
-
- 
 
 - public static void: Metode ini tidak mengembalikan nilai.
