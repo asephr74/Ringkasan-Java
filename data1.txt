@@ -8,7 +8,8 @@ Rangkuman (OOP)
 - class
 - objek
 - encapsulation==>get,set (membungkus data(atribut) dan metode(fungsi) dalam obyek)
-- inheritance==>extends (pewarisan)
+- inheritance==>extends (pewarisan)-->kelas(subkelas=mewarisi) untuk mewarisi atribut dan metode dri kelas lain(superkelas=diwarisi)
+  subkelas dapa menimpa(override) metode dan atribut dri superkelas
 - polymorphism==>@override 
 - abstraction==>abstract class
 - interface==>implements
