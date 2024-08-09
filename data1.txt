@@ -7,8 +7,8 @@
 Rangkuman (OOP)
 - class
 - objek
-- encapsulation==>get,set
-- inheritance==>extends
-- polymorphism==>@override
+- encapsulation==>get,set (membungkus data(atribut) dan metode(fungsi) dalam obyek)
+- inheritance==>extends (pewarisan)
+- polymorphism==>@override 
 - abstraction==>abstract class
 - interface==>implements
