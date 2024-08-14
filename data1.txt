@@ -1,8 +1,9 @@
-- public static int sum(int first, int second) {
-          return first + second;
-   }// mengembalikan nilai integer
+- metode ==> fungsi : mengembalikan nilai, prosedur : tidak mengembalikan nilai
+             * public static int sum(int first, int second) {
+                  return first + second;
+                }// mengembalikan nilai integer
 
-- public static void: Metode ini tidak mengembalikan nilai.
+             * public static void: Metode ini tidak mengembalikan nilai.
 
 Rangkuman (OOP)
 - class
